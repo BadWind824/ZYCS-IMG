@@ -5,9 +5,7 @@
       <AlertDescription class="p-0 text-xs sm:text-sm">
         <p class="pt-2">无限图片储存数量，你可以上传不限数量的图片！</p>
         <p>图片首次访问后缓存，"永久"有效，包括全球分布的 CDN，以确保尽可能快地提供图像.</p>
-        
-        
-      </AlertDescription>
+            </AlertDescription>
     </Alert>
 
     <!-- 工具栏 -->
